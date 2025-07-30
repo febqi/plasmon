@@ -19,6 +19,9 @@ Depending on the sweep type, use the corresponding notebook:
 - For VmbSweep: [`Impedance_VmbSweep.ipynb`](./Impedance_VmbSweep.ipynb)
 - For VobSweep: [`Impedance_VobSweep.ipynb`](./Impedance_VobSweep.ipynb)
 
+If a GPU is available, using CuPy can accelerate the computation.  
+An example implementation is provided in: [`Impedance_VmbSweep_cupy.ipynb`](./Impedance_VmbSweep_cupy.ipynb)
+
 ---
 
 ## Vib Sweep
