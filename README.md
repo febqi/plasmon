@@ -23,7 +23,7 @@ Depending on the sweep type, use the corresponding notebook:
 
 ## Vib Sweep
 
-In `Impedance_VibSweep.ipynb`, we calculate the reflection coefficient when sweeping **Vib** from 15 V to 5 V while keeping **Vmb = Vob = -15 V** fixed.
+In `Impedance_VibSweep.ipynb`, we calculate the reflection coefficient when sweeping **Vib** from 15 V to 3 V while setting **Vmb = Vob = -15 V**.
 
 For each value of Vib, we assume the electron number corresponds to the saturated number for that voltage configuration.
 
