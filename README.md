@@ -23,6 +23,12 @@ If a GPU is available, using CuPy can accelerate the computation.
 An example implementation is provided in: [`Impedance_VmbSweep_cupy.ipynb`](./Impedance_VmbSweep_cupy.ipynb)
 
 ---
+The RF field is applied only to the inner top electrode (Vit), and the reflected signal is measured from the same electrode.
+
+<img width="465" height="361" alt="image" src="https://github.com/user-attachments/assets/50d9890e-df81-415c-bc93-5bfc74b7399d" />
+
+
+---
 
 ## Vib Sweep
 
