@@ -2,7 +2,7 @@
 
 **Note:**  
 This simulation uses the Green functions and density profiles generated in the repository:  
-[erikawa-e/density_profile](https://github.com/erikawa-e/density_profile)  
+[febqi/density_profile](https://github.com/febqi/density_profile)  
 Please use the code there to generate the necessary data.
 
 Alternatively, you may use the files located in the following Google Drive folder:  
